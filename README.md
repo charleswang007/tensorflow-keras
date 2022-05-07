@@ -8,4 +8,4 @@
 
 ## Run the notebooks
 
-`jupyter notebook`:
+`C:\Users\charleswang\GitHub\tensorflow-keras>jupyter notebook`
