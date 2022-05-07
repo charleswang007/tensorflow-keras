@@ -5,3 +5,7 @@
 ## Data Flow in TensorFlow
 
 ![alt text](https://www.tensorflow.org/images/tensors_flowing.gif "Tensors Flowing")
+
+## Run the notebooks
+
+`jupyter notebook`:
